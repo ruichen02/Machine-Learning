@@ -1,6 +1,6 @@
-# Machine-Learning
+# Machine Learning Lab Enhancement & Project
 
-## Group Members
+## Group 25
 
 Lab Enhancement</br> 
 |            |                     |          |                             |
